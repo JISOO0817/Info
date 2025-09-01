@@ -4,7 +4,7 @@
 ## 🔗 Links
 - 📄 [이력서 (Resume)](https://jisoo0817.github.io/Info/Resume.pdf)
 - 💼 [경력기술서 (Career Description)](https://jisoo0817.github.io/Info/CareerDescription.pdf)
-- 📧 Email: dkadnsk@naver.com
+- 📧 Email: dkadnsk@naver.com 
 
 
 
